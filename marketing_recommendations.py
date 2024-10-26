@@ -48,4 +48,6 @@ plt.xlabel("Actual Sales")
 plt.ylabel("Predicted Sales")
 plt.title("Actual vs Predicted Sales")
 plt.show()
+ # RESULT 
 
+# Mean Squared Error: 153271.33
